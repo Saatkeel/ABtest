@@ -1,0 +1,25 @@
+com/example/springfeign/WhatDate.java
+ com.example.springfeign.WhatDate
+com/example/springfeign/SpringfeignApplication.java
+ com.example.springfeign.SpringfeignApplication
+com/example/springfeign/config/ClientConfiguration.java
+ com.example.springfeign.config.ClientConfiguration
+com/example/springfeign/service/impl/GiphyServiceImpl.java
+ com.example.springfeign.service.impl.GiphyServiceImpl
+com/example/springfeign/service/OpenExchangeService.java
+ com.example.springfeign.service.OpenExchangeService
+com/example/springfeign/model/Valute.java
+ com.example.springfeign.model.Valute
+com/example/springfeign/controller/GreetingController.java
+ com.example.springfeign.controller.GreetingController
+com/example/springfeign/service/GiphyService.java
+ com.example.springfeign.service.GiphyService
+com/example/springfeign/model/Gif.java
+ com.example.springfeign.model.Gif
+ com.example.springfeign.model.Gif$Data
+com/example/springfeign/client/OpenExchangeClient.java
+ com.example.springfeign.client.OpenExchangeClient
+com/example/springfeign/client/GiphyClient.java
+ com.example.springfeign.client.GiphyClient
+com/example/springfeign/service/impl/OpenExchangeServiceImpl.java
+ com.example.springfeign.service.impl.OpenExchangeServiceImpl

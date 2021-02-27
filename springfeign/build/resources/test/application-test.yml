@@ -1,0 +1,7 @@
+#book:
+#  service:
+#    url: http://localhost:9561
+
+book:
+  service:
+    url: http://localhost:9561
